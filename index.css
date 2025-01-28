@@ -1,0 +1,9 @@
+.div1 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.div2{
+    display: grid;
+    grid-template-columns: 1fr  1fr ;
+}

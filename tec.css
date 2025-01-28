@@ -1,0 +1,11 @@
+.pli1{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.Voltar{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: aliceblue;
+}
